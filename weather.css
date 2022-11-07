@@ -1,0 +1,17 @@
+body{
+    background: url('https://i.gifer.com/NAsl.gif');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+
+#city-input, #weather-output {
+    max-width: 400px;
+    margin: 0 auto;
+}
+  
+.banner {
+    color: black;
+    font-family: sans-serif;
+}
